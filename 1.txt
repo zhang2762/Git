@@ -1,1 +1,2 @@
 num = 10 # manger
+num2 == 20
