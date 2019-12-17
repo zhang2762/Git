@@ -1,1 +1,1 @@
-Num = 10 # manger
+num = 10 # manger
